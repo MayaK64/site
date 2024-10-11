@@ -1,1 +1,14 @@
+ body {
+  background-image: url(bg.png)
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
 
